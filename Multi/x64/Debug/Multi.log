@@ -1,0 +1,16 @@
+﻿  Multi.cpp
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(216,67): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(217,64): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(233,40): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(242,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(144,20): warning C4101: 'view': variável local não referenciada
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4305: 'argumento': truncamento de 'int' para 'const _Elem'
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4305:         with
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4305:         [
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4305:             _Elem=char
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4305:         ]
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(797,41): warning C4309: 'argumento': truncamento de valor constante
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(833,64): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(834,57): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\nicko\Downloads\Lab19\Multi\Multi\Multi.cpp(836,43): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+  Multi.vcxproj -> C:\Users\nicko\Downloads\Lab19\Multi\x64\Debug\Multi.exe
